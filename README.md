@@ -1,2 +1,1 @@
-# Graphics
-all data and graphics in my academic
+Personal Website for Adrian Dolinay
